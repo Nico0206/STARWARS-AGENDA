@@ -1,4 +1,4 @@
-# STARWARS-AGENDA
+# STARWARS-AGENDA (Proyecto Programacion I)
 # Agenda de Siths y Jedi - Proyecto de POO
 
 Este proyecto consiste en una aplicación de consola implementada en Python que simula una agenda para gestionar información de Siths y Jedi del universo de Star Wars. Utilizando los principios de la Programación Orientada a Objetos (POO), la aplicación permite a los usuarios realizar diversas operaciones sobre los personajes de la saga, como añadir, modificar, eliminar y consultar sus datos.
